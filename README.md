@@ -20,19 +20,21 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 ### Template
 
 ```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# Personagem de RPG
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Um ebook acerca de um personagem para um jogo de TTRPG. 
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+Wombo IA
+Chat GPT
+Google
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Uso de chat GPT e Wombo para criação e alteração de imagens. Uso de Chat gpt para edição e correção ortografica
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+https://docs.google.com/document/d/1G4kPGO0qP5TuU_MhftCZqmvALXF86YhsoRUCnvUhmJA/edit?tab=t.0#heading=h.vnsbouk9xpga
 
 ## 💭 Reflexão (Opcional)
 Comente sobre o desafio de criar algo 'natty' com IA.
